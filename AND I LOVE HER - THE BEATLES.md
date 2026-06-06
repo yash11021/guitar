@@ -7,70 +7,67 @@ E   F#   G#   A   B   C#   D#
 I   ii   iii  IV  V   vi   vii°
 ```
 
-MODULATED KEY: F MAJOR
+MODULATED KEY: F MAJOR   (from the guitar solo onward)
 
 ```text
 F   G   A   Bb   C   D   E
 I   ii  iii IV   V   vi  vii°
 ```
 
-STRUMMING
+FEEL
 
 ```text
-1     2     3  &  4
-↓     ↓     ↓  ↑  ↓
+Fingerstyle / arpeggiated
+1   2   3  &  4
+↓   ↓   ↓  ↑  ↓
 ```
 
-SONG FORM
+CHART  (one row per sung line; lyrics omitted — read along from your source)
 
 ```text
-INTRO
-VERSE 1
-VERSE 2
-BRIDGE
-VERSE 3
-SOLO
-VERSE 4
-OUTRO
-```
+[Intro]
+F#m   E6
 
-VERSE
+[Verse 1]
+F#m  C#m        line 1
+F#m  C#m        line 2
+F#m  C#m        line 3
+A    B          line 4
+E               hook / title line
 
-```text
-F#m - C#m
-F#m - C#m
-A   - B7  - E
-```
+[Verse 2]
+F#m  C#m        line 1
+F#m  C#m        line 2
+F#m  C#m        line 3
+A    B7         line 4
+E6              hook / title line
 
-BRIDGE
+[Bridge]
+C#m  B          line 1
+C#m  G#m        line 2
+C#m  G#m        line 3
+B    B7         line 4
 
-```text
-C#m - B
-C#m - G#m
-C#m - G#m - B
-```
+[Verse 3]
+F#m  C#m        line 1
+F#m  C#m        line 2
+F#m  C#m        line 3
+A    B7         line 4
+E6              hook / title line
 
-SOLO
+[Guitar Solo]  -- modulates to F major
+Gm  Dm   Gm  Dm   Gm  Dm
+Bb  C7   F   F
 
-```text
-Gm - Dm
-Gm - Dm
-Bb - C7 - F
-```
+[Verse 4]  (F major)
+Gm  Dm          line 1
+Gm  Dm          line 2
+Gm  Dm          line 3
+Bb  C7          line 4
+F6              hook / title line
 
-OUTRO
-
-```text
-Gm - Dm
-Gm - Dm
-Bb - C7 - F - D
-```
-
-RIFF
-
-```text
-Intro:  A2 → D2 → D1 → A4
-Outro:  A3 → D3 → D2 → A5  (transposed)
+[Outro]
+Gm  Dm/F  Gm  D
 ```
 
 Visual Reference
